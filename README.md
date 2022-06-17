@@ -3,3 +3,4 @@ The project GWAS to identify genes are have rolen on over co-occurrence of the p
 ## Results and Figures
 The results of the this study are found in the PermGWAS.ipynb
 ## Scipts 
+the scripts are used during study and addtional computtainal scripts are shown. 
