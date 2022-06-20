@@ -1,5 +1,5 @@
 # GWAS_Premature_Stop_Codons
-The project GWAS to identify genes are have role an over co-occurrence of the premature stop codons in the same accessions.
+The project GWAS to identify genes are have role on over co-occurrence of the premature stop codons in the same accessions.
 ## Gene Networks 
 The gene networks are used during to create a final gene network are shown separately.
 ## Results and Figures
