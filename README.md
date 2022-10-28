@@ -8,5 +8,5 @@ The gene networks are shown in this section that was used to create a final gene
 ## Results and Figures
 The results of the this study are found in the PermGWAS.ipynb and GWAS_Python_R_code.ipynb.
 ## Scripts 
-The scripts are used during study and addtional computational scripts are shown. 
+The scripts are used during study and additional computational scripts are shown. 
 
